@@ -2,7 +2,10 @@
 
 ## Overview
 
+### This fork add italian language support and fix an issue to use Chrome with Puppeteer with no sandbox mode.
+
 This is a stress testing tool for [BigBlueButton](https://bigbluebutton.org/).
+
 
 It simulates client activity in a BBB conference thanks to [Puppeteer](https://pptr.dev/).
 
